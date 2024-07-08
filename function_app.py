@@ -44,7 +44,7 @@ def myTrigger(myTimer: func.TimerRequest) -> None:
     apiKey = ""
     dataFetcher = PortfolioDataFetcher(apiKey)
 
-    # URLs for different portfolio accounts
+    # URLs for the different portfolio accounts
     urls = {
         "Roth IRA": f"https://api.schwabapi.com/trader/v1/accounts/{rothIRAAccountId}?fields=positions",
         "Options": f"https://api.schwabapi.com/trader/v1/accounts/{optionsAccountId}?fields=positions",
