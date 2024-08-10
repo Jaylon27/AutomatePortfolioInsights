@@ -1,3 +1,6 @@
+![System Design Diagram](System%20Design%20Diagram.png)
+
+
 ## Background
 
 As a passionate investor, managing and tracking my investment portfolio progress every week was a time-consuming task. Every Saturday, I manually gathered data from my Charles Schwab accounts, calculated various metrics such as ROI and total profit, and updated a Google Sheets spreadsheet to track my portfolio's performance. This process was not only repetitive and time-consuming but also prone to errors.
